@@ -1,0 +1,17 @@
+# Dépendances
+node_modules/
+
+# Variables d'environnement (SECRETS)
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Fichiers système
+.DS_Store
+.vscode/
+
+# Build
+dist/
+build/
